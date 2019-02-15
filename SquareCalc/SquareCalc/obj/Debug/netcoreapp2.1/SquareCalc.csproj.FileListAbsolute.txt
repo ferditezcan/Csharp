@@ -1,0 +1,11 @@
+C:\Users\ftezca\source\repos\SquareCalc\SquareCalc\bin\Debug\netcoreapp2.1\SquareCalc.deps.json
+C:\Users\ftezca\source\repos\SquareCalc\SquareCalc\bin\Debug\netcoreapp2.1\SquareCalc.runtimeconfig.json
+C:\Users\ftezca\source\repos\SquareCalc\SquareCalc\bin\Debug\netcoreapp2.1\SquareCalc.runtimeconfig.dev.json
+C:\Users\ftezca\source\repos\SquareCalc\SquareCalc\bin\Debug\netcoreapp2.1\SquareCalc.dll
+C:\Users\ftezca\source\repos\SquareCalc\SquareCalc\bin\Debug\netcoreapp2.1\SquareCalc.pdb
+C:\Users\ftezca\source\repos\SquareCalc\SquareCalc\obj\Debug\netcoreapp2.1\SquareCalc.csprojAssemblyReference.cache
+C:\Users\ftezca\source\repos\SquareCalc\SquareCalc\obj\Debug\netcoreapp2.1\SquareCalc.csproj.CoreCompileInputs.cache
+C:\Users\ftezca\source\repos\SquareCalc\SquareCalc\obj\Debug\netcoreapp2.1\SquareCalc.AssemblyInfoInputs.cache
+C:\Users\ftezca\source\repos\SquareCalc\SquareCalc\obj\Debug\netcoreapp2.1\SquareCalc.AssemblyInfo.cs
+C:\Users\ftezca\source\repos\SquareCalc\SquareCalc\obj\Debug\netcoreapp2.1\SquareCalc.dll
+C:\Users\ftezca\source\repos\SquareCalc\SquareCalc\obj\Debug\netcoreapp2.1\SquareCalc.pdb
