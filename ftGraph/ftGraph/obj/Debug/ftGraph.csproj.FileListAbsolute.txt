@@ -1,0 +1,10 @@
+C:\Users\ftezca\source\repos\ftGraph\ftGraph\bin\Debug\ftGraph.exe.config
+C:\Users\ftezca\source\repos\ftGraph\ftGraph\bin\Debug\ftGraph.exe
+C:\Users\ftezca\source\repos\ftGraph\ftGraph\bin\Debug\ftGraph.pdb
+C:\Users\ftezca\source\repos\ftGraph\ftGraph\obj\Debug\ftGraph.csprojAssemblyReference.cache
+C:\Users\ftezca\source\repos\ftGraph\ftGraph\obj\Debug\ftGraph.Form1.resources
+C:\Users\ftezca\source\repos\ftGraph\ftGraph\obj\Debug\ftGraph.Properties.Resources.resources
+C:\Users\ftezca\source\repos\ftGraph\ftGraph\obj\Debug\ftGraph.csproj.GenerateResource.cache
+C:\Users\ftezca\source\repos\ftGraph\ftGraph\obj\Debug\ftGraph.csproj.CoreCompileInputs.cache
+C:\Users\ftezca\source\repos\ftGraph\ftGraph\obj\Debug\ftGraph.exe
+C:\Users\ftezca\source\repos\ftGraph\ftGraph\obj\Debug\ftGraph.pdb
